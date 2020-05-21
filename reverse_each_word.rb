@@ -17,4 +17,6 @@ def reverse_each_word(string)
     i.reverse
   end
   
+  string_to_array.join(" ")
+  
 end
